@@ -46,7 +46,15 @@ Monitoring & Logging:
 </p> 
 
 📈 My GitHub Activity
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav&theme=onedark&no-frame=true&no-bg=true" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=AbhinavMee9549&theme=react-dark)
+
+📊 My GitHub Activity
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavMee9549&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavMee9549&theme=radical)
+
+
+
 
 📫 Let's Connect!
 Feel free to reach out—I'm always open to discussing new opportunities, collaborating on projects, or sharing insights.
