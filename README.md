@@ -10,7 +10,7 @@ Here's a list of the technologies I love to work with.
 Languages:
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
 <br/>
 
