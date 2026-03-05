@@ -41,7 +41,7 @@ Monitoring & Logging:
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-ELK_Stack-000000?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+
 
 </p> 
 
